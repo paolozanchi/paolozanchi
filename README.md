@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @paolozanchi
-- 🔭 I'm a full-stack developer with a passion for frontend development
-- 👀 I'm interested in **sustainability**, **music**, **photography** and **everything creative**!
-- 🌱 I'm currently learning German
+- 🔭 Full-stack developer with a passion for frontend development
+- 👀 Interested in **sustainability**, **music**, **photography** and **everything creative**!
+- 🌱 Currently learning German
